@@ -1,0 +1,13 @@
+/* Linha cinza abaixo do título */
+h1 { 
+    border-bottom-style: double;
+ }
+/* Cor e fonte dos caracteres selecionados */
+ .tarefa-selecionada { 
+    color: rgb(77, 62, 21); 
+    font-style: oblique; 
+}
+/* Cor e fonte dos caracteres adicionados */
+.tarefa-normal {
+     color: rgb(15, 89, 248); 
+    }
